@@ -1,0 +1,50 @@
+Seeker of Magic version 1.0.0
+By Garry Francis
+For web browser
+
+Solution by Garry Francis
+----------------------------------------
+This is a minimal solution. You'll need to EXAMINE lots of things for this solution to make sense. Scores are shown in parentheses as +A=B, where A is points earned and B is cumulative points earned.
+
+(I) (you're carrying a sharp knife)
+W
+DROP ALL
+U
+GET APPLE
+DROP IT
+D
+GET ALL
+CUT APPLE (with knife to reveal giant worm, you throw the apple away)
+N
+(X TROLL) (he's wearing a pouch)
+(Spend some time trying different things with the troll. He's quite funny.)
+GIVE WORM (you can now go north) (+5=5)
+N
+GET ROCK
+THROW IT (at troll, he goes down like a ton of bricks)
+S
+GET ROCK
+OPEN POUCH (it contains a flint)
+GET FLINT
+LIGHT BRANCH (with rock and flint) (+5=10)
+N
+N
+(X FIRE) (nothing left but ashes)
+DIG ASHES (you find a tin box)
+OPEN BOX (you find a silver key and a parchment)
+READ PARCHMENT (it's a riddle)
+SAY NOTHING (a crack appears in northern wall)
+PUSH DOOR (door creaks open) (+5=15)
+GET KEY
+N
+UNLOCK CHEST (with silver key)
+OPEN IT
+DROP KEY
+GET SCROLLS
+S
+S
+S
+S
+E
+ENTER BOAT (+5=20)
+***THE END***
