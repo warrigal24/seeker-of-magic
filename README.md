@@ -10,7 +10,7 @@ There's known to be a Cave of Magic deep in the forest of Bunglewood. The cave i
 
 No, you suspect that the cave contains magic. There's only one way to find out for sure and that's to go there!
 
-This is a traditional text adventure that was originally written for the [Adventuron CaveJam](https://itch.io/jam/cavejam), 31 August to 23 September 2019. The game can be played at [Seeker of Magic](https://warrigal.itch.io/seeker-of-magic).
+This is a traditional text adventure that was originally written for the [Adventuron CaveJam](https://itch.io/jam/cavejam), 31 August to 23 September 2019.
 
 ## Release notes
 
